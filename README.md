@@ -1,2 +1,2 @@
 # The Tserembe Memories
-Rental house website
+Rental website
